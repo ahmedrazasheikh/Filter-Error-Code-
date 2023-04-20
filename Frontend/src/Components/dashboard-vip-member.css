@@ -1,0 +1,64 @@
+
+.sssf{
+    font-size: 3rem;
+   
+}
+.tt{
+    margin: none;
+}
+.navbar{
+    border: 1px solid #808080;
+}
+.ee{
+
+    border: 1px solid #808080;
+
+}
+.sssss{
+    max-width: 50rem;
+}
+.oolol{
+    font-size: 1.4rem;
+}
+.secondpart{
+    display: flex;
+    margin-top: 100px
+}
+.secondpartert{
+    
+    display: flex;
+}
+
+.navbar {
+    border: 1px solid #808080;
+    min-width: 30%;
+}
+#reviewline{
+    border-bottom: 3px solid black;
+}
+
+table {
+    font-family: 'Roboto', Roundkey;;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+  #activeStyle{
+    background-color: aqua;
+  }
+  #nonActiveStyle{
+    background-color: yellow;
+  }
+  .smallNav{
+    border: 1px solid black;
+  }

@@ -1,0 +1,270 @@
+/* .bbvvyc{
+    width: 150rem;
+} */
+.midPart
+{
+  display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+
+}
+.first-product
+{
+ 
+  width: 85vw;
+  height: 90vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row;
+  /* flex-wrap: wrap; */
+  /* background-color: aqua; */
+  margin-top: 5vh;
+ 
+}
+.secound-product
+{
+ 
+  width: 85vw;
+  height: 90vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: row-reverse;
+ 
+  /* background-color: aqua; */
+  margin-top: 10vh;
+ 
+}
+.img-container
+{
+  width: 45%;
+  height: 90%;
+ border: 1px solid black;
+ background-color: #ffffff;
+}
+.product-text
+{
+  width: 45%;
+  height: 90%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.paragraph-style
+{
+  color: #000000;
+  font-size: 25px;
+  font-weight: bolder;
+}
+.heading
+{
+  font-size: 65px;
+}
+.para-container
+{
+  display: flex;
+  text-align: left;
+  width: 90%;
+
+}
+.shop-button
+{
+  border: 1px solid black;
+  height: 40px;
+  width: 150px;
+  margin-top: 10px;
+  font-size: 10px;
+}
+.shop-button:hover
+{
+  
+  height: 40px;
+  width: 150px;
+  margin-top: 10px;
+  font-size: 10px;
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.img-container:hover{
+ 
+    transition-duration: 0.5s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+    width: 47%;
+    height: 92%;
+}
+
+.button32432 {
+    background-color: #ffffff; /* Green */
+    border: none;
+    color: rgb(0, 0, 0);
+    border: 1px solid black;
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    position: absolute;
+    left: 3%;
+  }
+.button32432:hover{
+    background-color: #000000;
+    border: none;
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    padding: 10px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 10px;
+    position: absolute;
+    left: 3%;
+  }
+  .adfeewwe{
+text-align: start;
+    position: relative
+  }
+  .qwdfqwc{
+    font-size: 3rem;
+   
+    margin-bottom: 20px;
+  }
+  .linehheoo{
+    font-size: 20px;
+    line-height: 30px;
+    display: flex;
+    justify-content: flex-start;
+    font-weight: 500;
+  }
+  .kjbds{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .niohdbo{
+    width: 100vw;
+    height: max-content;
+  }
+
+  @media (max-width:779px)
+  {
+    
+.product{
+    flex-wrap: wrap;
+}
+  }
+  @media (max-width:689px)
+  {
+    
+.row{
+  display: flex;
+  /* display: block; */
+  /* text-align: center; */
+  /* margin: auto 0%; */
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.container{
+    margin-top: 60px;
+    margin-bottom:150px;
+}
+.ssssaaa{
+    display: none;
+}
+.adfeewwe{
+margin-right: 12px;
+}
+.button32432{
+    margin-bottom: 40px;
+}
+.bbvvyc{
+    width: 80rem;
+    height: 400px;
+}
+.qwdfqwc{
+    margin-top: 30px;
+}
+.hjvasda{
+  margin: 0px 20px;
+}
+  }
+
+  .kbdask{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+
+
+
+  .hds{
+    margin-bottom: 400px;
+  }
+
+
+  /* @media (max-width:939px) {
+.headfill23{
+  text-align: center;
+  font-size: 15px;
+background-color: #000000;
+}
+.head3bg{
+  font-size: 1.3rem;
+  padding: 0px 10px 0px 10px;
+}
+  } */
+  @media only screen and (max-width: 600px)
+{
+  .first-product
+{
+ 
+  width: 100vw;
+  height: 180vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+ 
+  margin-top: 15vh;
+ 
+}
+.para-container
+{
+  display: flex;
+  text-align: left;
+  width: 100%;
+
+}
+.img-container
+{
+  width: 100%;
+  height: 50%;
+ border: 1px solid black;
+ background-color: #ffffff;
+}
+.product-text
+{
+  width: 95%;
+  height: 90%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.secound-product
+{
+ 
+  width: 100vw;
+  height: 180vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+  margin-top: 10vh;
+ 
+}
+}

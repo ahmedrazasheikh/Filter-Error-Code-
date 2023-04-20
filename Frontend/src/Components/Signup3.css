@@ -1,0 +1,64 @@
+.sign-google-btn
+{
+    background-color: brown;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+}
+.sign-apple-btn
+{
+    background-color: black;
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+.btn-alignment
+{
+   
+    display: flex;
+    justify-content: center;
+}
+.or
+{
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.mkoijnbg{
+    margin-right: 20px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: space-between;
+    position: relative;
+}
+.flexceryj{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.nouijnvf{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.bhuytfv{
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 1px solid gray;
+    padding: 10px 10px;
+}
+.bhuytfv::selection{
+    border: 1px solid gray;
+
+}
+.vbnhgtrr{
+flex-wrap: wrap;
+    display: flex;
+    justify-content: center;
+}
